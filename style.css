@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.one {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+.prodouct {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.why {
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 18px;
+  font-family: "Poppins", sans-serif;
+}
+.nawab {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.Story {
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.accoutn {
+  font-size: 23px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.addre {
+  /* font-size: 18px; */
+}
+.mapicon{
+  width: 24px;
+  height: 24px;
+  color: blue;
+}
+span {
+  font-size: 17px;
+  color: blue;
+}
+.mainem {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 10px;
+}
+.linked {
+  display: flex;
+  justify-content: left;
+  gap: 20px;
+  font-size: 30px;
+  color: blue;
+}
+.copy {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.fmain {
+  background: black;
+  color: white;
+  padding: 25px;
+  padding-bottom: 5px;
+}
+.fconant {
+  background: black;
+  color: white;
+}
+.mainimg {
+  object-fit: cover;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 280px) {
+  .bg-danger {
+    display: none;
+  }
+}
