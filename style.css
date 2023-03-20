@@ -15,7 +15,7 @@ body {
   cursor: pointer;
   font-family: "Poppins", sans-serif;
 }
-.prodouct {
+.prodouct{
   font-size: 30px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
@@ -41,9 +41,7 @@ body {
   font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
-.addre {
-  /* font-size: 18px; */
-}
+
 .mapicon{
   width: 24px;
   height: 24px;
